@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+    background: #FFF;
+    width: 1600px;
+    height: 7335px;
+}
+
+.first-header{
+    background-image: url(./resources/Banner\ Image.png);
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    margin: 50px 140px 120px 140px;
+    
+}
+
+.header-1st-h2{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    padding-bottom: 16px;
+    padding-top: 177px;
+}
+
+.header-1st-h1{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    width: 632px;
+    padding-left: 344px;
+}
+
+.header-2nd-h1{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    padding-bottom: 48px;
+}
+
+.header-2nd-h3{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 16px;
+}
+
+.header-2nd-h2{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    padding-bottom: 48px;
+}
+
+.header-2nd-img{
+    width: 802.9px;
+    height: 500px;
+    padding: 0px 398.5px 120px 398.5px;
+
+}
+
+.third-header{
+    background-image: url(./resources/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    margin: 0px 140px 120px 140px;
+    background-repeat: no-repeat;
+    display: flex;
+    fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    
+}
+
+.header-3rd-h1{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    width: 642px;
+    padding: 126px 0px 24px 126px;
+    text-align: left;
+}
+
+.header-3rd-p{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 697px;
+    text-align: left;
+    padding-bottom: 48px;
+    padding-left: 126px;
+}
+
+.header-3rd-btn{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-left: 158px;
+    
+}
+
+.header-3rd-img{
+    padding: 67.5px 138px 67.5px 39px;
+    width: 319.83px;
+    height: 464.662px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
