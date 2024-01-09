@@ -261,7 +261,7 @@ span{
 .main-sec4{
     width: 1320px;
     margin: 0px 140px 120px 140px;
-    margin-bottom: 120px;
+    
 }
 
 .main-sec4-p1{
@@ -314,7 +314,151 @@ span{
     height: 616px;
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
+    margin: 0px 140px 120px 140px;
 }
+
+.main-sec5-div1{
+    text-align: center;
+    padding: 80px 0px; 
+}
+
+.main-sec5-h1{
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    text-transform: capitalize;
+    padding: 40px 0px 22px 0px;
+}
+
+.main-sec5-p{
+    color: rgba(7, 2, 17, 0.60);
+   
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin: 0px 212px 48px 212px;
+    
+}
+
+input{
+    border: 0;
+}
+.main-sec5-form{
+    width: 648px;
+    height: 72px;
+    margin: 0px 336px;
+    display: inline;
+    color: rgba(7, 2, 17, 0.30);
+    border-radius: 50px 0px 0px 50px;
+}
+.main-sec5-form-mail{
+    width: 438px;
+    height: 72px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    /*color: rgba(7, 2, 17, 0.30);*/
+    padding-left: 30px;
+    border-radius: 50px 0px 0px 50px;
+    margin-right: 0px;
+}
+
+
+
+.main-sec5-form-submit{
+    width: 210px;
+    height: 72px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin-left: 0px;
+}
+
+footer{
+    width: 1600px;
+    height: 609px;
+    background: #070211;
+    padding: 120px 140px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    
+}
+
+footer section{
+    display: flex;
+    
+}
+
+.footer-sec1-div1{
+    height: 80px;
+    width: 375px;
+    margin-right: 559px;
+    margin-bottom: 98px;
+}
+
+.footer-sec1-div2-img{
+    width: 24px;
+    height: 24px;
+    margin-right: 16px;
+}
+.border{
+    height: 160px;
+    width: 1320px;
+    border-top: 1px solid rgba(255, 255, 255, 0.15);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.footer-sec2-div1{
+    
+    
+    padding: 48px 500px;
+    display: flex;
+    
+}
+
+.footer-sec2-div2-img{
+    width: 64px;
+    height: 64px;
+    margin-right: 24px;
+
+}
+
+.footer-sec3{
+    padding-top: 50px;
+    display: flex;
+    
+
+}
+.footer-sec3-div1{
+    padding-right: 880px;
+}
+
+footer button{
+    border: 0;
+    background:none;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+
+
+
+
+
     
 
 
